@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<code style="color: green"> <h1> Circleville Volunteer Fire Department</h1></code>
+<center><code style="color: green"> <h1> Circleville Volunteer Fire Department</h1></code></center>
 
-<code style="color: lightgreen">
-<h3>About Us   Photos   Fire Safety   News</h3></code>
+<center><code style="color: lightgreen">
+    <h3>About Us   Photos   Fire Safety   News</h3></code></center>
 </body>
 </html>
 <html>
