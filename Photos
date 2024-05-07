@@ -7,6 +7,6 @@
 <html>
 <p>
 <center><h2>Photos</h2></center>
-
+<img src="dinosaur.jpg" alt="Dinosaur" />
 </p>
 </html>
