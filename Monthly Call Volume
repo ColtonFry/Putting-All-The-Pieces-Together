@@ -3,30 +3,38 @@
 </center>
 
 <center>
- <h1><p style="font-family:'lucida console'">2024 Monthly Calls</p></h1>
+<h1><p style="font-family:'lucida console'">
+2024 Monthly Calls
+</p>
+</h1>
 </center>
 
 <body>
+<center>
+<table>
 
-  <table>
- 
 
- <tr>
-          
-<td><p style="background-color:rgb(0,0,255);">January</td>
-<td><p style="background-color:rgb(255,0,0);">February</td>
-            <td><p style="background-color:rgb(255,255,0);">March</td>
-           <td><p style="background-color:rgb(0,255,0);">April</td>
-    </tr>
+<tr>
+
+<td><p style="background-color:rgb(0,0,255);">
+January</td>
+<td><p style="background-color:rgb(255,0,0);">
+February</td>
+<td><p style="background-color:rgb(255,255,0);">
+March</td>
+<td><p style="background-color:rgb(0,255,0);">
+April</td>
+</tr>
+
 
 <tbody>
-        <td>35</td>
-        <td>30</td>
-        <td>27</td>
-        <td>38</td>
-    </tr>
+<td>35</td>
+<td>30</td>
+<td>27</td>
+<td>38</td>
+</tr>
 
-    </table>
-</body> 
+</table>
+</center>
+</body>
 </html>
-
