@@ -1,6 +1,11 @@
-Circleville VFD Truck 8 responding to an AFA on Main Street , Irwin PA.
+<!DOCTYPE html>
+<center><code style="color: green"> <h1>Truck 8 responding to an AFA on Main Street , Irwin PA.</h1></code></center>
+<center><code style="color: lightgreen">
+</body>
+</html>
 
 
-<video preload="auto" controls>
-  <iframe width="1228" height="695" src="https://www.youtube.com/embed/eSoTifVu0MA" title="Circleville VFD Truck 8 Responding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <video width="320" height="240" controls autoplay>
+        <source src="src="https://www.youtube.com/embed/eSoTifVu0MA" title="Circleville VFD Truck 8 Responding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen"></iframe>
+
 </video>
